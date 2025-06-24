@@ -2,7 +2,8 @@
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
-## Finalizado!
+## :heavy_exclamation_mark: Finalizado! 
+Código atualizado com modificações de acordo com as necessidades do desafio e lições aprendidas durante o curso. :sunglasses:
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
